@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/notpoiu/mspaint/releases/latest/download/Script.luau"))()
+loadstring(game:HttpGet("https://github.com/YumCoding-Alt/SHuh/blob/main/Script.luau"))()
