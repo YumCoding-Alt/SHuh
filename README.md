@@ -5,7 +5,7 @@
 A decent script hub that is free and open source 🥶
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/notpoiu/mspaint/main/main.lua"))()
+loadstring(game:HttpGet("https://github.com/YumCoding-Alt/SHuh/blob/main/main.lua"))()
 ```
 
 **Links**:
